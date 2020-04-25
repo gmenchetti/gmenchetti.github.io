@@ -1,5 +1,9 @@
 <h2 {% if site.style == 'dark' %}class="text-white"{% endif %}>Projects</h2>
-<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">GitHub repositories that I've built.</p>
+<p class="f4 mb-4 {% if site.style == 'dark' %}text-white{% else %}text-gray{% endif %}">
+  Here you can find the GitHub repositories of some of the projects I have built.
+  <br>
+  I am working on adding other projects soon! 
+</p>
 <div class="d-sm-flex flex-wrap gutter-condensed mb-4">
   {% if site.projects.sort_by == 'stars' %}
     {% assign sort_order = 'stargazers_count', 'last' %}
