@@ -26,7 +26,12 @@ projects:
     archived: false
     forks: true
     projects:
-    # - repo-name
+      - TravlendarPlus
+      - Hybrid-Recommender
+      - Sales-Prediction
+      - ML-miniproject
+      - Object-Oriented-Class-Projects
+      - Image-Deblurring
 
 social_media:
   # behance: your_username
