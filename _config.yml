@@ -49,7 +49,10 @@ social_media:
 
 topics:
   - name: Publications
+    web_url: _includes/publications
     image_url: images/Publication.png
+
+  #- name:
 
   #- name: School 
   #- name: CSS
