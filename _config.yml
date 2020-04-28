@@ -57,7 +57,9 @@ topics:
     web_url: publications
     image_url: images/Publication.png
 
-  #- name:
+  - name: Slides and Notes
+    web_url: slidesnotes
+    image_url: images/Presentation.png
 
   #- name: School 
   #- name: CSS
